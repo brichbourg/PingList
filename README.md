@@ -1,6 +1,6 @@
 # PingList.py
 ### Author
-Brantley Richbourg <brichbourg@gmail.com>
+Brantley Richbourg <brichbourg AT gmail.com>
 
 #Installation and Usage
 
