@@ -5,6 +5,7 @@ Brantley Richbourg <brichbourg@gmail.com>
 #Installation and Usage
 
 1.) Clone repo:
+
 	git clone https://github.com/brichbourg/PingList.git
 
 2.) Edit ips.txt to populate with your list of random IP addresses you want to test.
