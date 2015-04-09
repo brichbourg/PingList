@@ -34,6 +34,6 @@ if len(args) == 2:
 
 else:
 	print 'ERROR: Invalid syntax\n'\
-	'Example: \"python ping-addresses.py file.txt\"'
+	'Example: \"sudo python pinglist.py file.txt\"'
 	sys.exit(1)
 
